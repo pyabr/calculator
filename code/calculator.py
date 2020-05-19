@@ -1,7 +1,8 @@
 import sys
 import math
 from libabr import res
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import *
+from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 
 class Button(QToolButton):
