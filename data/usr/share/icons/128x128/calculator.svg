@@ -7,43 +7,19 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="calculator.svg"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
-   width="128.0px"
-   height="128.0px"
-   viewBox="0 0 128.0 128.0"
+   id="SVGRoot"
    version="1.1"
-   id="SVGRoot">
+   viewBox="0 0 128.0 128.0"
+   height="128.0px"
+   width="128.0px"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   sodipodi:docname="calculator.svg">
   <defs
      id="defs833">
     <rect
-       x="34"
-       y="47"
+       id="rect873"
+       height="64.035156"
        width="75.496296"
-       height="64.035156"
-       id="rect873" />
-    <rect
-       id="rect873-6"
-       height="64.035156"
-       width="75.4963"
-       y="47"
-       x="34" />
-    <rect
-       id="rect886"
-       height="64.035156"
-       width="75.4963"
-       y="47"
-       x="34" />
-    <rect
-       id="rect873-5"
-       height="64.035156"
-       width="75.4963"
-       y="47"
-       x="34" />
-    <rect
-       id="rect915"
-       height="64.035156"
-       width="75.4963"
        y="47"
        x="34" />
     <rect
@@ -51,36 +27,60 @@
        y="47"
        width="75.4963"
        height="64.035156"
-       id="rect873-6-5" />
+       id="rect873-6" />
     <rect
        x="34"
        y="47"
        width="75.4963"
        height="64.035156"
-       id="rect944" />
+       id="rect886" />
+    <rect
+       x="34"
+       y="47"
+       width="75.4963"
+       height="64.035156"
+       id="rect873-5" />
+    <rect
+       x="34"
+       y="47"
+       width="75.4963"
+       height="64.035156"
+       id="rect915" />
+    <rect
+       id="rect873-6-5"
+       height="64.035156"
+       width="75.4963"
+       y="47"
+       x="34" />
+    <rect
+       id="rect944"
+       height="64.035156"
+       width="75.4963"
+       y="47"
+       x="34" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="0"
-     inkscape:window-height="1016"
-     inkscape:window-width="1920"
-     showgrid="true"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="59.934647"
-     inkscape:cx="51.15753"
-     inkscape:zoom="7.2407734"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.2407734"
+     inkscape:cx="51.15753"
+     inkscape:cy="59.934647"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
     <inkscape:grid
-       type="xygrid"
-       id="grid1403" />
+       id="grid1403"
+       type="xygrid" />
   </sodipodi:namedview>
   <metadata
      id="metadata836">
@@ -95,88 +95,64 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
+    <rect
+       style="opacity:0.825443;fill:#646464;fill-opacity:1;stroke:#000000;stroke-opacity:0.160751"
+       id="rect1410"
+       width="80"
+       height="80"
+       x="25"
+       y="20"
+       ry="15" />
     <rect
        ry="15"
-       y="20"
-       x="25"
-       height="80"
-       width="80"
-       id="rect1410"
-       style="opacity:0.825443;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-opacity:0.160751" />
-    <g
-       id="g983"
-       transform="matrix(1.2081417,0,0,1.2081417,-4.047819,-21.742694)">
-      <circle
-         r="9.9721613"
-         cy="79.761887"
-         cx="45.124893"
-         id="path846"
-         style="fill:#646464;fill-opacity:1;stroke-width:0.797773;stroke-opacity:0.160751" />
-      <circle
-         style="fill:#646464;fill-opacity:1;stroke-width:0.797773;stroke-opacity:0.160751"
-         id="circle865"
-         cx="70.039406"
-         cy="79.74015"
-         r="9.9721613" />
-      <circle
-         style="fill:#646464;fill-opacity:1;stroke-width:0.797773;stroke-opacity:0.160751"
-         id="circle867"
-         cx="45.012978"
-         cy="55.20713"
-         r="9.9721613" />
-      <circle
-         r="9.9721613"
-         cy="54.819187"
-         cx="69.913284"
-         id="circle869"
-         style="fill:#646464;fill-opacity:1;stroke-width:0.797773;stroke-opacity:0.160751" />
-      <text
-         transform="translate(5.2510679,0.37921071)"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect873);fill:#000000;fill-opacity:1;stroke:none;"
-         id="text871"
-         xml:space="preserve"><tspan
-           x="34"
-           y="58.796845"><tspan
-             style="font-size:13.3333px;fill:#ffffff;fill-opacity:1">+</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text871-7"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect873-6);fill:#ffffff;fill-opacity:1;stroke:none;"
-         transform="matrix(2.4068328,0,0,1,-17.464685,-0.00141498)"><tspan
-           x="34"
-           y="58.796845"><tspan
-             style="fill:#ffffff;fill-opacity:1">-</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text871-3"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect873-5);fill:#ffffff;fill-opacity:1;stroke:none;"
-         transform="matrix(1.1501941,0,0,1.1508421,1.4775639,16.653362)"><tspan
-           x="34"
-           y="58.796845"><tspan
-             style="fill:#ffffff;fill-opacity:1">x</tspan></tspan></text>
-      <text
-         transform="matrix(2.4068328,0,0,1,-17.535882,24.926563)"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect873-6-5);fill:#ffffff;fill-opacity:1;stroke:none;"
-         id="text871-7-6"
-         xml:space="preserve"><tspan
-           x="34"
-           y="58.796845"><tspan
-             style="fill:#ffffff;fill-opacity:1">-</tspan></tspan></text>
-      <circle
-         r="1"
-         cy="77"
-         cx="70"
-         id="path964"
-         style="fill:#ffffff;fill-opacity:1;stroke-opacity:0.160751" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke-opacity:0.160751"
-         id="circle966"
-         cx="70.029854"
-         cy="82.731468"
-         r="1" />
-    </g>
+       y="25"
+       x="30"
+       height="30"
+       width="70"
+       id="rect900"
+       style="fill:#646464;fill-opacity:1;stroke-width:6.02495" />
+    <rect
+       ry="7.5"
+       y="60"
+       x="80"
+       height="35"
+       width="15"
+       id="rect904"
+       style="fill:#fddc64;fill-opacity:1;stroke-width:5.04083" />
+    <rect
+       style="fill:#fdaf00;fill-opacity:1;stroke-width:3.3"
+       id="rect904-3"
+       width="15"
+       height="15"
+       x="60"
+       y="60"
+       ry="3.2142856" />
+    <rect
+       ry="3.2142856"
+       y="60"
+       x="40"
+       height="15"
+       width="15"
+       id="rect904-3-6"
+       style="fill:#fdaf00;fill-opacity:1;stroke-width:3.3" />
+    <rect
+       ry="3.2142856"
+       y="80"
+       x="40"
+       height="15"
+       width="15"
+       id="rect904-3-7"
+       style="fill:#fdaf00;fill-opacity:1;stroke-width:3.3" />
+    <rect
+       ry="3.2142856"
+       y="80"
+       x="60"
+       height="15"
+       width="15"
+       id="rect904-3-5"
+       style="fill:#fdaf00;fill-opacity:1;stroke-width:3.3" />
   </g>
 </svg>
