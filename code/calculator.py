@@ -55,7 +55,7 @@ class MainApp (QWidget):
 
         self.digitButtons = []
 
-        for i in range(Calculator.NumDigitButtons):
+        for i in range(MainApp.NumDigitButtons):
             self.digitButtons.append(self.createButton(str(i),
                                                        self.digitClicked))
 
@@ -101,7 +101,7 @@ class MainApp (QWidget):
         mainLayout.addWidget(self.setMemoryButton, 4, 0)
         mainLayout.addWidget(self.addToMemoryButton, 5, 0)
 
-        for i in range(1, Calculator.NumDigitButtons):
+        for i in range(1, MainApp.NumDigitButtons):
             row = ((9 - i) / 3) + 2
             column = ((i - 1) % 3) + 1
             mainLayout.addWidget(self.digitButtons[i], row, column)
