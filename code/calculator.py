@@ -27,14 +27,16 @@ class Button(QToolButton):
         return size
 
 
-class MainApp (QWidget):
+class MainApp(QWidget):
     NumDigitButtons = 10
 
-    def __init__(self, Desktop,Widget):
-        super(MainApp, self).__init__()
+    def __init__(self,Desktop,Widget, parent=None):
+        super(MainApp, self).__init__(parent)
 
         self.Desktop = Desktop
         self.Widget = Widget
+
+        self.Widget.setWindowIcon (QIcon(res.get('@logo/calulator')))
 
         self.pendingAdditiveOperator = ''
         self.pendingMultiplicativeOperator = ''
@@ -55,7 +57,7 @@ class MainApp (QWidget):
 
         self.digitButtons = []
 
-        for i in range(MainApp.NumDigitButtons):
+        for i in range(Calculator.NumDigitButtons):
             self.digitButtons.append(self.createButton(str(i),
                                                        self.digitClicked))
 
@@ -63,15 +65,15 @@ class MainApp (QWidget):
         self.changeSignButton = self.createButton(u"\N{PLUS-MINUS SIGN}",
                                                   self.changeSignClicked)
 
-        self.backspaceButton = self.createButton(res.get("@string/backspace"),
+        self.backspaceButton = self.createButton("Backspace",
                                                  self.backspaceClicked)
-        self.clearButton = self.createButton(res.get("@string/clear"), self.clear)
-        self.clearAllButton = self.createButton(res.get('@string/clear_all'), self.clearAll)
+        self.clearButton = self.createButton("Clear", self.clear)
+        self.clearAllButton = self.createButton("Clear All", self.clearAll)
 
-        self.clearMemoryButton = self.createButton(res.get("@string/mc"), self.clearMemory)
-        self.readMemoryButton = self.createButton(res.get("@string/mr"), self.readMemory)
-        self.setMemoryButton = self.createButton(res.get("@string/ms"), self.setMemory)
-        self.addToMemoryButton = self.createButton(res.get("@string/m+"), self.addToMemory)
+        self.clearMemoryButton = self.createButton("MC", self.clearMemory)
+        self.readMemoryButton = self.createButton("MR", self.readMemory)
+        self.setMemoryButton = self.createButton("MS", self.setMemory)
+        self.addToMemoryButton = self.createButton("M+", self.addToMemory)
 
         self.divisionButton = self.createButton(u"\N{DIVISION SIGN}",
                                                 self.multiplicativeOperatorClicked)
@@ -80,7 +82,7 @@ class MainApp (QWidget):
         self.minusButton = self.createButton("-", self.additiveOperatorClicked)
         self.plusButton = self.createButton("+", self.additiveOperatorClicked)
 
-        self.squareRootButton = self.createButton(res.get("@string/sqrt"),
+        self.squareRootButton = self.createButton("Sqrt",
                                                   self.unaryOperatorClicked)
         self.powerButton = self.createButton(u"x\N{SUPERSCRIPT TWO}",
                                              self.unaryOperatorClicked)
@@ -101,7 +103,7 @@ class MainApp (QWidget):
         mainLayout.addWidget(self.setMemoryButton, 4, 0)
         mainLayout.addWidget(self.addToMemoryButton, 5, 0)
 
-        for i in range(1, MainApp.NumDigitButtons):
+        for i in range(1, Calculator.NumDigitButtons):
             row = ((9 - i) / 3) + 2
             column = ((i - 1) % 3) + 1
             mainLayout.addWidget(self.digitButtons[i], row, column)
@@ -121,8 +123,7 @@ class MainApp (QWidget):
         mainLayout.addWidget(self.equalButton, 5, 5)
         self.setLayout(mainLayout)
 
-        self.Widget.setWindowTitle(res.get("@string/app_name"))
-        self.Widget.setWindowIcon (res.get("@logo/calculator"))
+        self.setWindowTitle("Calculator")
 
     def digitClicked(self):
         clickedButton = self.sender()
@@ -142,7 +143,7 @@ class MainApp (QWidget):
         clickedOperator = clickedButton.text()
         operand = float(self.display.text())
 
-        if clickedOperator == res.get("@string/sqrt"):
+        if clickedOperator == "Sqrt":
             if operand < 0.0:
                 self.abortOperation()
                 return
