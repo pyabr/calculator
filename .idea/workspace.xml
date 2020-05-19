@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3eedb27-26e2-4756-975f-262d6cdb9505" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/usr/share/icons/128x128/calculator.svg" beforeDir="false" afterPath="$PROJECT_DIR$/data/usr/share/icons/128x128/calculator.svg" afterDir="false" />
-    </list>
+    <list default="true" id="c3eedb27-26e2-4756-975f-262d6cdb9505" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +142,28 @@
       <option name="project" value="LOCAL" />
       <updated>1589908907532</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit all files">
+      <created>1589909217825</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589909217825</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Commit all files">
+      <created>1589909352064</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589909352064</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Commit all files">
+      <created>1589909411650</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589909411650</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,14 +172,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit all files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2" timestamp="1589908907476">
+    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2" timestamp="1589909411591">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589908907476" />
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589908919502">
+    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589909411591" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589909416217">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589908919502" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589909416217" />
     <state x="574" y="235" width="762" height="644" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589906991826">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
