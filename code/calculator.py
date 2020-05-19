@@ -114,6 +114,7 @@ class MainApp(QWidget):
         self.setLayout(mainLayout)
 
         self.Widget.setWindowTitle("Calculator")
+        self.Widget.setWindowIcon (res.get('@logo/calculator'))
 
     def digitClicked(self):
         clickedButton = self.sender()
