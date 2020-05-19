@@ -28,8 +28,6 @@ class MainApp(QWidget):
         self.Desktop = Desktop
         self.Widget = Widget
 
-        self.Widget.setWindowIcon (QIcon(res.get('@logo/calulator')))
-
         self.pendingAdditiveOperator = ''
         self.pendingMultiplicativeOperator = ''
 
@@ -115,7 +113,7 @@ class MainApp(QWidget):
         mainLayout.addWidget(self.equalButton, 5, 5)
         self.setLayout(mainLayout)
 
-        self.setWindowTitle("Calculator")
+        self.Widget.setWindowTitle("Calculator")
 
     def digitClicked(self):
         clickedButton = self.sender()
