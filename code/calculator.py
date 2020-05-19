@@ -29,6 +29,7 @@ class MainApp(QWidget):
         self.Widget = Widget
 
         self.Widget.resize(300,400)
+        self.Widget.disableMaximizeButton()
 
         self.pendingAdditiveOperator = ''
         self.pendingMultiplicativeOperator = ''
