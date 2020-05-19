@@ -30,13 +30,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/usr/share/docs/calculator" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/usr/share/icons/128x128" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/usr/share/docs/calculator" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589909411650</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit all files">
+      <created>1589909855701</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1589909855701</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,14 +180,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit all files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2" timestamp="1589909411591">
+    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2" timestamp="1589909855551">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589909411591" />
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589909416217">
+    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589909855551" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589909863609">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589909416217" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589909863609" />
     <state x="574" y="235" width="762" height="644" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589906991826">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
