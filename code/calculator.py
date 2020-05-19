@@ -2,16 +2,7 @@ import sys
 import math
 from libabr import res
 from PyQt5.QtCore import Qt
-from PyQt5.QtWidgets import (
-    QApplication,
-    QGridLayout,
-    QLayout,
-    QLineEdit,
-    QSizePolicy,
-    QToolButton,
-    QWidget
-)
-
+from PyQt5.QtWidgets import *
 
 class Button(QToolButton):
     def __init__(self, text, parent=None):
