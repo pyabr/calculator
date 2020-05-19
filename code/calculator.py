@@ -31,7 +31,7 @@ class MainApp (QWidget):
     NumDigitButtons = 10
 
     def __init__(self, Desktop,Widget):
-        super(Calculator, self).__init__(parent)
+        super(MainApp, self).__init__(parent)
 
         self.Desktop = Desktop
         self.Widget = Widget
