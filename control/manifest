@@ -1,7 +1,7 @@
 name: calculator
 copyright: (c) 2020 Amirhosein Mohammadi
 license: GNU GPL v3.0
-unpack: /usr/bin
+unpack: /
 build: 1399-02-30
 version: 0.0.1
 description: a default calculator for Pyabr
