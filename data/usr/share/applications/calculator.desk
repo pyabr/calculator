@@ -1,0 +1,4 @@
+name[en]: Calculator
+app: calculator
+icon: @logo/calculator
+comment[en]: a default calculator for Pyabr
