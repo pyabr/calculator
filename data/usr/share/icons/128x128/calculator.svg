@@ -68,7 +68,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="7.2407734"
      inkscape:cx="51.15753"
-     inkscape:cy="59.934647"
+     inkscape:cy="59.520327"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -129,9 +129,9 @@
        height="15"
        x="60"
        y="60"
-       ry="3.2142856" />
+       ry="7.5" />
     <rect
-       ry="3.2142856"
+       ry="7.5"
        y="60"
        x="40"
        height="15"
@@ -139,7 +139,7 @@
        id="rect904-3-6"
        style="fill:#fdaf00;fill-opacity:1;stroke-width:3.3" />
     <rect
-       ry="3.2142856"
+       ry="7.5"
        y="80"
        x="40"
        height="15"
@@ -147,12 +147,20 @@
        id="rect904-3-7"
        style="fill:#fdaf00;fill-opacity:1;stroke-width:3.3" />
     <rect
-       ry="3.2142856"
+       ry="7.5"
        y="80"
        x="60"
        height="15"
        width="15"
        id="rect904-3-5"
        style="fill:#fdaf00;fill-opacity:1;stroke-width:3.3" />
+    <rect
+       ry="2.5"
+       y="65"
+       x="45"
+       height="5"
+       width="10"
+       id="rect951"
+       style="fill:#fdaf00;fill-opacity:1;stroke-width:5.5" />
   </g>
 </svg>

@@ -28,6 +28,8 @@ class MainApp(QWidget):
         self.Desktop = Desktop
         self.Widget = Widget
 
+        self.Widget.resize(300,400)
+
         self.pendingAdditiveOperator = ''
         self.pendingMultiplicativeOperator = ''
 
