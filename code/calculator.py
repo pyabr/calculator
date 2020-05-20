@@ -22,11 +22,13 @@ class Button(QToolButton):
 class MainApp(QWidget):
     NumDigitButtons = 10
 
-    def __init__(self,Desktop,Widget, parent=None):
+    def __init__(self,args, parent=None):
         super(MainApp, self).__init__(parent)
 
-        self.Desktop = Desktop
-        self.Widget = Widget
+        self.Backend = args[0]
+        self.Env = args[1]
+        self.Desktop = args[2]
+        self.Widget = args[3]
 
         self.Widget.resize(300,400)
         self.Widget.disableMaximizeButton()

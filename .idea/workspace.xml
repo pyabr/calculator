@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3eedb27-26e2-4756-975f-262d6cdb9505" name="Default Changelist" comment="" />
+    <list default="true" id="c3eedb27-26e2-4756-975f-262d6cdb9505" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,8 +191,27 @@
       <option name="project" value="LOCAL" />
       <updated>1589909855701</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit all files">
+      <created>1589932551641</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1589932551641</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -180,14 +219,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit all files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2" timestamp="1589909855551">
+    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2" timestamp="1589932551550">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589909855551" />
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589909863609">
+    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589932551550" />
+    <state x="374" y="179" width="1536" height="879" key="MergeDialog" timestamp="1589932599933">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589909863609" />
+    <state x="374" y="179" width="1536" height="879" key="MergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589932599933" />
+    <state x="850" y="338" width="704" height="553" key="MultipleFileMergeDialog" timestamp="1589932602292">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="850" y="338" width="704" height="553" key="MultipleFileMergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589932602292" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589932623753">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589932623753" />
     <state x="574" y="235" width="762" height="644" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589906991826">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
