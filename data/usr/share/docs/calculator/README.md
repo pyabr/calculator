@@ -1,8 +1,6 @@
 # calculator
 
-Default Calculator for Pyabr created by Amirhossein Mohammdi 
-
-- Install hello package with this command in Pyabr:
+- Install calculator package with this command in Pyabr:
 
 ```shell script
 paye -i calculator

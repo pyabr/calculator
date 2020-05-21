@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589932551641</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit all files">
+      <created>1589993899166</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1589993899166</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,10 +226,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit all files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2" timestamp="1589932551550">
+    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2" timestamp="1589993898988">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589932551550" />
+    <state x="554" y="102" width="801" height="910" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589993898988" />
     <state x="374" y="179" width="1536" height="879" key="MergeDialog" timestamp="1589932599933">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -231,10 +238,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="850" y="338" width="704" height="553" key="MultipleFileMergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589932602292" />
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589932623753">
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589993907751">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589932623753" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589993907751" />
     <state x="574" y="235" width="762" height="644" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589906991826">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
