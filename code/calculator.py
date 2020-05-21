@@ -30,7 +30,7 @@ class MainApp(QWidget):
         self.Desktop = args[2]
         self.Widget = args[3]
 
-        self.Widget.resize(400,400)
+        self.Widget.resize(350,400)
         self.Widget.disableMaximizeButton()
 
         self.pendingAdditiveOperator = ''
